@@ -1,6 +1,6 @@
 ### Hi there 👋
 <img src="https://img.shields.io/badge/wnekdns5015@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white"/>
-<img src="https://img.shields.io/badge/wnekdns5015@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/wnekdns5015@gmail.com-black?style=flat-square&logo=Tumblr&logoColor=white"/>
 
 
 <!--

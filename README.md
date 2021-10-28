@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/wnekdns5015@gmail.com-0000?style=flat-square&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/wnekdns5015@gmail.com-pink?style=flat-square&logo=Gmail&logoColor=white"/>
 
 <!--
 **dawoon-joo/dawoon-joo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

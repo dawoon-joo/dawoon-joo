@@ -1,5 +1,5 @@
 ### 👋 Hi there I'm UX/UI web publisher.
-<a href="mailto:"superman@test.com"><img src="https://img.shields.io/badge/wnekdns5015@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white"/></a>   <img src="https://img.shields.io/badge/010.2638.3054-black?style=flat-square&logo=Tumblr&logoColor=white"/>
+<a href="mailto:0joofficial@mgail.com" target="_blank"><img src="https://img.shields.io/badge/wnekdns5015@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white"/></a>   <img src="https://img.shields.io/badge/010.2638.3054-black?style=flat-square&logo=Tumblr&logoColor=white"/>
 
 
 <h3>Languages 💻</h3>

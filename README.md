@@ -8,7 +8,7 @@
 
 <h3>Tools 🔨</h3>
 
-<img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=SASS&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Gulp-CF4647?style=flat-square&logo=Gulp&logoColor=white"/>
+<img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=SASS&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Gulp-CF4647?style=flat-square&logo=Gulp&logoColor=white"/>
 
 
 
